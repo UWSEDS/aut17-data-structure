@@ -1,0 +1,6 @@
+pandas
+dicttoxml
+simplejson
+sqlalchemy
+ipython-sql
+beautifulsoup4
